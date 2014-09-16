@@ -1,4 +1,3 @@
-joshua
 	<section class="blockquote">
 		<div class="row">
 			<div class="content medium-12 large-12 columns" role="main">
